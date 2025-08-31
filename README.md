@@ -8,17 +8,15 @@ Nessa atividade, você deverá montar a página inicial do projeto escolhido, a 
 
 ## Informações Gerais
 
-- Nome:
-- Matricula:
-- Proposta de projeto escolhida:
-- Breve descrição sobre seu projeto:
-
+- Nome: Orlando Ferreira
+- Matricula: 599134
+- Proposta de projeto escolhida: Colecoes e itens
+- Breve descrição sobre seu projeto: Site para divulgacao de trabalhos artisticos
 
 ## Print do(s) wireframe(s) criado
 
-<<  COLOQUE A IMAGEM AQUI >>
-
+<img src="images/Wireframe_DiWGaleria.jpg"
 
 ## Print da home-page criada
 
-<<  COLOQUE A IMAGEM AQUI >>
+<< COLOQUE A IMAGEM AQUI >>
